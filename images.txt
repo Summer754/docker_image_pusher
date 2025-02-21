@@ -10,3 +10,5 @@ xhofe/alist:latest
 --platform=linux/amd64 nastools/nas-tools:3.2.3
 --platform=linux/arm64 jxxghp/moviepilot:latest
 --platform=linux/amd64 jxxghp/moviepilot:latest
+--platform=linux/arm64 linuxserver/jackett
+--platform=linux/amd64 linuxserver/jackett

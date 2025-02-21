@@ -11,3 +11,11 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 --platform=linux/amd64 jxxghp/moviepilot:latest
 --platform=linux/arm64 linuxserver/jackett
 --platform=linux/amd64 linuxserver/jackett
+--platform=linux/arm64 linuxserver/plex:1.41.4
+--platform=linux/amd64 linuxserver/plex:1.41.4
+--platform=linux/arm64 linuxserver/qbittorrent:5.0.4
+--platform=linux/amd64 linuxserver/qbittorrent:5.0.4
+--platform=linux/arm64 linuxserver/qbittorrent:5.0.4
+--platform=linux/amd64 linuxserver/qbittorrent:5.0.4
+--platform=linux/arm64 linuxserver/calibre-web
+--platform=linux/amd64 linuxserver/calibre-web

@@ -8,3 +8,5 @@ xhofe/alist:latest
 --platform=linux/arm64 lswl/vertex
 --platform=linux/arm64 nastools/nas-tools:3.2.3
 --platform=linux/amd64 nastools/nas-tools:3.2.3
+--platform=linux/arm64 jxxghp/moviepilot:latest
+--platform=linux/amd64 jxxghp/moviepilot:latest

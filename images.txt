@@ -24,4 +24,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 --platform=linux/arm64 xiaoyaliu/alist:hostmode
 --platform=linux/amd64 xiaoyaliu/alist:hostmode
 --platform=linux/arm/v7 xiaoyaliu/alist:hostmode
-
+--platform=linux/arm64 portainer/portainer-ce:alpine-sts
+--platform=linux/amd64 portainer/portainer-ce:alpine-sts
+--platform=linux/arm/v7 portainer/portainer-ce:alpine-sts
+--platform=linux/ppc64le portainer/portainer-ce:alpine-sts

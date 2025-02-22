@@ -28,3 +28,8 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 --platform=linux/amd64 portainer/portainer-ce:alpine-sts
 --platform=linux/arm/v7 portainer/portainer-ce:alpine-sts
 --platform=linux/ppc64le portainer/portainer-ce:alpine-sts
+--platform=windows/amd64 portainer/portainer-ce:sts
+--platform=linux/amd64 portainer/portainer-ce:sts
+--platform=linux/arm/v7 portainer/portainer-ce:sts
+--platform=linux/arm64 portainer/portainer-ce:sts
+--platform=linux/ppc64le portainer/portainer-ce:sts

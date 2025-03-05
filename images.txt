@@ -32,3 +32,5 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 --platform=linux/amd64 jellyfin/jellyfin:2025021706
 --platform=linux/arm/v7 jellyfin/jellyfin:2025021706
 --platform=linux/arm64/v8 jellyfin/jellyfin:2025021706
+--platform=linux/arm64 metatube/metatube-server:1.2.9
+--platform=linux/amd64 metatube/metatube-server:1.2.9

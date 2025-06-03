@@ -9,7 +9,5 @@
 #--platform=linux/arm64/v8 jellyfin/jellyfin:2025021706
 #--platform=linux/arm64 metatube/metatube-server:1.2.9
 #--platform=linux/amd64 metatube/metatube-server:1.2.9
---platform=linux/amd64 nastools/nas-tools:3.2.2
---platform=linux/arm64 nastools/nas-tools:3.2.2
---platform=linux/amd64 jxxghp/moviepilot:latest
---platform=linux/arm64 jxxghp/moviepilot:latest
+--platform=linux/amd64 jxxghp/moviepilot-v2:2.5.2
+--platform=linux/arm64 jxxghp/moviepilot-v2:2.5.2
